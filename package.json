@@ -1,0 +1,11 @@
+{
+  "name": "nodeTest",
+  "version": "1.0.0",
+  "description": "practica de mentoria de node",
+  "main": "index.js",
+  "author": "rromomx",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js"
+  }
+}
